@@ -1,0 +1,17 @@
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\bin\Debug\net8.0-windows\Pembelian_Buku.exe
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\bin\Debug\net8.0-windows\Pembelian_Buku.deps.json
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\bin\Debug\net8.0-windows\Pembelian_Buku.runtimeconfig.json
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\bin\Debug\net8.0-windows\Pembelian_Buku.dll
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\bin\Debug\net8.0-windows\Pembelian_Buku.pdb
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\obj\Debug\net8.0-windows\Pembelian_Buku.Form1.resources
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\obj\Debug\net8.0-windows\Pembelian_Buku.Form2.resources
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\obj\Debug\net8.0-windows\Pembelian_Buku.csproj.GenerateResource.cache
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\obj\Debug\net8.0-windows\Pembelian_Buku.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\obj\Debug\net8.0-windows\Pembelian_Buku.AssemblyInfoInputs.cache
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\obj\Debug\net8.0-windows\Pembelian_Buku.AssemblyInfo.cs
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\obj\Debug\net8.0-windows\Pembelian_Buku.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\obj\Debug\net8.0-windows\Pembelian_Buku.dll
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\obj\Debug\net8.0-windows\refint\Pembelian_Buku.dll
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\obj\Debug\net8.0-windows\Pembelian_Buku.pdb
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\obj\Debug\net8.0-windows\Pembelian_Buku.genruntimeconfig.cache
+D:\VisualStudioProject\Pembelian_Buku\Pembelian_Buku\obj\Debug\net8.0-windows\ref\Pembelian_Buku.dll
